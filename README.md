@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Dxsprit-hackers882727
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dxsprit-hackers882727/Dxsprit-hackers882727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print('https://s2.uupload.ir/files/img_20221218_162410_fqdt.jpg')
+print('https://s2.uupload.ir/files/img_20221218_162432_cw8w.jpg')
+print('https://s2.uupload.ir/files/img_20221218_162449_f313.jpg')
+print('https://s2.uupload.ir/files/images_2g7l.jpeg')
+print('https://s2.uupload.ir/files/images_(1)_gjp6.jpeg')
+print('https://s2.uupload.ir/files/images_(2)_rth4.jpeg')
+print('https://s2.uupload.ir/files/images_(3)_i4ra.jpeg')
+print('https://s2.uupload.ir/files/images_(4)_vix4.jpeg')
